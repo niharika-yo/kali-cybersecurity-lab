@@ -9,7 +9,7 @@ This repository contains technical documentation and evidence for setting up an 
 - **OS:** Kali Linux VM
 - **Containerization:** Docker (`docker.io`)
 - **Target Application:** OWASP Juice Shop (`http://localhost:3000`)
-- **Proxy Interception:** Burp Suite Community Edition (`127.0.0.1:3000`)
+- **Proxy Interception:** Burp Suite Community Edition (`127.0.0.1:8080`)
 - **Packet Capture:** Wireshark (`lo` interface)
 
 ## Repository Structure
